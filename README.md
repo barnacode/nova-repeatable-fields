@@ -247,11 +247,6 @@ Repeater::make('Dogs')
 Sets the heading between each row (eg. Dog #1, Dog #2). Only works when used with "displayStackedForm".
 
 
-### Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
-
-
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
